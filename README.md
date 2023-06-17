@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **marmaor@gmail.com**
 
-- 📄 Know about my experiences [Computer Science Graduate]
+- 🎓 Computer Science Graduate
 
 - ⚡ Fun fact **I love reading Philosophical Books📚, Skateboarding🛹 is my passion from a very young age until 4ever 😎**
 
