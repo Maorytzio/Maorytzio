@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoryzio&label=Profile%20views&color=0e75b6&style=flat" alt="maoryzio" /> </p>
 
+- 🎓 Computer Science Graduate
+
 - 🔭 I’m currently working on **Web Scraping project**
 
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marmaor@gmail.com**
-
-- 🎓 Computer Science Graduate
 
 - ⚡ Fun fact **I love reading Philosophical Books📚, Skateboarding🛹 is my passion from a very young age until 4ever 😎**
 
