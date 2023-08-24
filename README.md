@@ -6,9 +6,7 @@
 
 - 🎓 Computer Science Graduate
 
-- 🔭 I’m currently working on **Web Scraping project**
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on *Flutter Moblie App**
 
 - 📫 How to reach me **marmaor@gmail.com**
 
