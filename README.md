@@ -6,11 +6,11 @@
 
 - 🎓 Computer Science Graduate
 
-- 🔭 I’m currently working on *Flutter Moblie App**
+- 🔭 I’m currently working on *Spotify Clone**
 
 - 📫 How to reach me **marmaor@gmail.com**
 
-- ⚡ Fun fact **I love reading Philosophical Books📚, Skateboarding🛹 is my passion from a very young age until 4ever 😎**
+- ⚡ Fun fact **I love reading Philosophical Books📚, Skateboarding🛹 is my passion 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
