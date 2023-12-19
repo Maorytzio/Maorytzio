@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoryzio&label=Profile%20views&color=0e75b6&style=flat" alt="maoryzio" /> </p>
 
-- 🎓 Computer Science Graduate
+- 🎓 Tech savvy Software Developer, focusing on Backened   
 
 - 🔭 I’m currently working on *Spotify Clone**
 
