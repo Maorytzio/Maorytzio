@@ -6,7 +6,7 @@
 
 - 🎓 Tech savvy Software Developer, focusing on Backened   
 
-- 🔭 I’m currently working on *Spotify Clone**
+- 🔭 I’m currently working on *video to mp3 converter**
 
 - 📫 How to reach me **marmaor@gmail.com**
 
